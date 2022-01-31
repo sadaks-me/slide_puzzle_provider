@@ -1,6 +1,10 @@
-# puzzle
+# slide_puzzle_provider
 
-A Puzzle Flutter project.
+A Simplified puzzle with provider (NO BLOC). 
+
+## Original Repo
+
+[slide_puzzle](https://github.com/VGVentures/slide_puzzle) by VGVentures
 
 ## Getting Started
 
